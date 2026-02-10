@@ -50,7 +50,7 @@ The dataset includes:
 
 Since high-risk customers were fewer:
 
-🔹 Random Under Sampling
+🔹 Random Under Sampling\
 🔹 SMOTE\
 🔹 ADASYN\
 👉 This improved recall and F1 score for risky customers.
