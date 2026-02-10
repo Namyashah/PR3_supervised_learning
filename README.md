@@ -12,15 +12,15 @@ smarter lending decisions.
 
 ## 🚀 Project Highlights
 
-✅ Data Cleaning & Missing Value Treatment
-✅ Feature Engineering from transaction dates
-✅ Encoding & Scaling using ColumnTransformer
-✅ Handling Imbalanced Data (UnderSampling, SMOTE, ADASYN)
-✅ Logistic Regression, Decision Tree & Random Forest
-✅ Hyperparameter tuning with GridSearchCV & RandomizedSearchCV
-✅ Overfitting & Generalization analysis
-✅ ROC-AUC evaluation
-✅ Business interpretation of errors
+✅ Data Cleaning & Missing Value Treatment\
+✅ Feature Engineering from transaction dates\
+✅ Encoding & Scaling using ColumnTransformer\
+✅ Handling Imbalanced Data (UnderSampling, SMOTE, ADASYN)\
+✅ Logistic Regression, Decision Tree & Random Forest\
+✅ Hyperparameter tuning with GridSearchCV & RandomizedSearchCV\
+✅ Overfitting & Generalization analysis\
+✅ ROC-AUC evaluation\
+✅ Business interpretation of errors\
 
 ------------------------------------------------------------------------
 
@@ -52,7 +52,7 @@ Since high-risk customers were fewer:
 
 🔹 Random Under Sampling
 🔹 SMOTE\
-🔹 ADASYN
+🔹 ADASYN\
 👉 This improved recall and F1 score for risky customers.
 
 ------------------------------------------------------------------------
@@ -69,7 +69,7 @@ Since high-risk customers were fewer:
 
 To improve performance and reduce overfitting:
 
-✔ GridSearchCV → Decision Tree
+✔ GridSearchCV → Decision Tree\
 ✔ RandomizedSearchCV → Random Forest
 
 ------------------------------------------------------------------------
@@ -78,8 +78,8 @@ To improve performance and reduce overfitting:
 
 Because accuracy can be misleading in imbalance, we focused on:
 
-✅ Recall (minority class)
-✅ F1 Score
+✅ Recall (minority class)\
+✅ F1 Score\
 ✅ ROC-AUC
 
 ------------------------------------------------------------------------
@@ -95,7 +95,7 @@ Higher AUC = better ranking ability.
 
 ## 💼 Business Understanding of Errors
 
-🔴 False Negative → Risky customer predicted safe → financial loss
+🔴 False Negative → Risky customer predicted safe → financial loss\
 🟡 False Positive → Safe customer flagged risky → customer inconvenience
 
 👉 Reducing false negatives is critical.
@@ -104,10 +104,10 @@ Higher AUC = better ranking ability.
 
 ## 🛠 Tech Stack
 
-Python 🐍
-Pandas & NumPy
-Scikit-Learn
-Imbalanced-Learn
+Python 🐍\
+Pandas & NumPy\
+Scikit-Learn\
+Imbalanced-Learn\
 Matplotlib / Seaborn
 
 ------------------------------------------------------------------------
